@@ -1,0 +1,1 @@
+{"version":3,"file":"index-b49b64488a48ab010f0e.css","mappings":"AAAA,KACE,qBACF,CAEA,OAGE,qEADA,YAAa,CADb,WAGF","sources":["webpack://webpack-js-basic-12.22/./src/style.css"],"sourcesContent":["body {\n  background-color: #ccc;\n}\n\n.image {\n  width: 300px;\n  height: 300px;\n  background: url('./images/cat.jpeg') no-repeat center / cover;\n}\n\n"],"names":[],"sourceRoot":""}

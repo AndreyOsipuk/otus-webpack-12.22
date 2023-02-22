@@ -1,0 +1,1 @@
+{"version":3,"file":"slider-b49b64488a48ab010f0e.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack://webpack-js-basic-12.22/./src/slider.js"],"sourcesContent":["console.log('Im slider')"],"names":["console","log"],"sourceRoot":""}
